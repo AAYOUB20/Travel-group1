@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+}
+
+.navbar-brand img {
+    height: 40px;
+    margin-right: 10px;
+}
+
+.navbar-brand span {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+
+.navbar-nav a {
+    color: white;
+    padding: 10px 15px;
+    transition: background-color 0.3s;
+}
+
+.navbar-nav a:hover {
+    background-color: #555555;
+}
+
+.navbar-toggler {
+    background-color: #333;
+    color: white;
+
+}
+.dropdown-menu{
+    background-color: black;
+}
